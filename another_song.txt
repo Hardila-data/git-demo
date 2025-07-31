@@ -1,2 +1,6 @@
 Hello
+<<<<<<< HEAD
 xxxx
+=======
+hhhh
+>>>>>>> feature
